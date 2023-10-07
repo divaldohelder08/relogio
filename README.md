@@ -6,7 +6,7 @@ Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 ## Objectivo
 Apenas um trabalho de escola
 
-## Por favor deixe uma 🌟
+## 💊Por favor deixe uma 🌟
 
 <div align="center">
   <br>
