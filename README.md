@@ -11,7 +11,7 @@ Apenas um trabalho de escola
 <div align="center">
   <br>
     <p align="centre">
-      <b>Visitors Count👋</b>
+      <b>Contagem de visitantas👋</b>
     </p>  
     <p align="center">
       <img align="center" src="https://profile-counter.glitch.me/{relogio}/count.svg" />
